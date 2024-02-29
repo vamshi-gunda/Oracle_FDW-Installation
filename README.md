@@ -3,7 +3,7 @@ An PostgreSQL extension Used to fetch oracle data from postgres
 
 Oracle Client Rpm's Link:- https://www.oracle.com/database/technologies/instant-client/linux-x86-64-downloads.html
 
-Oracle_fdw extension Link :- oracle_fdw 2.4.0: A Foreign Data Wrapper for Oracle / PostgreSQL Extension Network (pgxn.org) 
+Oracle_fdw extension Link :- https://pgxn.org/dist/oracle_fdw/2.4.0/
 
 Downlaod the files from the above links 
 
